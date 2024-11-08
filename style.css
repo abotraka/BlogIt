@@ -5,7 +5,7 @@ body {
   padding: 0;
 }
 .header {
-  background-image: url("/images/header-photo.jpg");
+  background-image: url("./images/header-photo.jpg");
   background-size: cover;
   background-position: center;
   padding: 20px;
